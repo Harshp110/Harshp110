@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Pandav</h1>
+<h1 align="center">Hi 👋, I'm Harsh S. Pandav</h1>
 <h3 align="center">Engineering Student at SPPU | Software Engineer | Full Stack & AI/ML</h3>
 
 <p align="center">
