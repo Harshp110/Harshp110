@@ -36,15 +36,6 @@ An AI-powered web application that analyzes crime data to identify high-risk are
 
 ---
 
-### 🔹 Weather Prediction System (ML-Based)  
-📌 **Description:**  
-A machine learning-based weather forecasting application that predicts future temperature using historical weather data and real-time API inputs.
-
-🔧 **Tech Used:** Python, Machine Learning, Flask/FastAPI, APIs  
-🌐 **Live App:**  
-👉 https://weather-prediction-by-harsh-pandav.onrender.com/
-
----
 
 ### 🔹 Ticklyy – Web Application  
 📌 **Description:**  
